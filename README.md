@@ -5,7 +5,7 @@ Navegador compacto que sempre fica sobre as demais janelas, feito em [**Electron
 - O Webviwer vai olhar  por padrão a URL "http://localhost:5500/", pode alterar no config.js
 
 ### :point_right: Atalhos
-- CTRL+J para abrir devTools
+- CTRL+J para abrir/fechar devTools
 - F11 para fullscreen
 - Pode adicionar mais atalhos na função createShortcuts(), conforme necessidade
 ### :hand: Instalação
