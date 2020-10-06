@@ -1,6 +1,7 @@
 const {
   app,
-  BrowserWindow
+  BrowserWindow,
+  globalShortcut
 } = require('electron');
 
 const config = require('./config.js')
